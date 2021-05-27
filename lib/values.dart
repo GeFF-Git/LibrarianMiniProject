@@ -1,0 +1,3 @@
+var mail;
+
+var libLogin;
