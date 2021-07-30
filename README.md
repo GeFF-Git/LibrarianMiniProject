@@ -1,4 +1,4 @@
 #Library Application
 
-Name Of Our Project: Librarian
+Name Of the Project: Librarian
 
